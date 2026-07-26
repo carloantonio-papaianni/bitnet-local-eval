@@ -1,0 +1,254 @@
+[
+  {
+    "id": "p01",
+    "category": "grounded-instruction",
+    "lang": "en",
+    "prompt": "A conveyor motor is drawing 15% more current than baseline and running 8 degrees hotter. List the three most likely causes and what to check first.",
+    "output": "A. The motor is not properly grounded\nB. The motor is not properly insulated\nC. The motor is not properly lubricated\nD. The motor is not properly cooled\nE. The motor is not properly energized\nF. The motor is not properly energized\nG. The motor is not properly energized\nH. The motor is not properly energized\nI. The motor is not properly energized\nJ. The motor is not properly energized\nK. The motor is not properly energized\nL. The motor is not properly energized\nM. The motor is not properly energized\nN. The motor is not properly energized\nO. The motor is not properly energized\nP. The motor is not properly energized\nQ."
+  },
+  {
+    "id": "p01",
+    "category": "grounded-instruction",
+    "lang": "it",
+    "prompt": "Un motore di un nastro trasportatore assorbe il 15% di corrente in piu' rispetto al valore di riferimento e lavora 8 gradi piu' caldo. Elenca le tre cause piu' probabili e cosa controllare per primo.",
+    "output": "1. Le condizioni del fluido: le condizioni del fluido sono state modificate da un nastro trasportatore assorbe che non è state state in modo assorbibile. Questo può essere causato da un nastro trasportatore assorbe che non è state state in modo assorbibile, o da un fluido che non è state state in modo assorbibile. . 2. Le condizioni del fluido: le condizioni del fluido sono state state modificate da un nastro trasportatore assorbe che non è state state in modo assorbibile. Questo può essere causato da un nastro trasportatore assorbe che non è state state in modo assorbibile, o da un fluido"
+  },
+  {
+    "id": "p01",
+    "category": "grounded-instruction",
+    "lang": "es",
+    "prompt": "Un motor de cinta transportadora consume un 15% mas de corriente que su valor de referencia y funciona 8 grados mas caliente. Enumera las tres causas mas probables y que revisar primero.",
+    "output": "1. El motor de cinta transportadora es malfuncionado. 2. El motor de cinta transportadora es malfuncionado. 3. El motor de cinta transportadora es malfuncionado. 4. El motor de cinta transportadora es malfuncionado. 5. El motor de cinta transportadora es malfuncionado. 6. El motor de cinta transportadora es malfuncionado. 7. El motor de cinta transportadora es malfuncionado. 8. El motor de cinta transportadora es malfuncionado. 9. El motor de cinta transportadora es malfuncionado. 10. El motor de cinta transportadora es malfuncionado."
+  },
+  {
+    "id": "p02",
+    "category": "refusal-when-unknown",
+    "lang": "en",
+    "prompt": "What was the exact serial number of the pump installed in line 4 last Tuesday?",
+    "output": "Answer: The exact serial number of the pump installed in line 4 last Tuesday is not provided in the given information.  Response: None.  Response: None.  Response: None.  Response: None.  Response: None.  Response: None.  Response: None.  Response: None.  Response: None.  Response: None.  Response: None.  Response: None.  Response: None.  Response: None.  Response: None.  Response: None.  Response: None.  Response: None.  Response: None.  Response: None.  Response: None.  Response: None.  Response: None.  Response: None.  Response: None.  Response: None.  Response: None."
+  },
+  {
+    "id": "p02",
+    "category": "refusal-when-unknown",
+    "lang": "it",
+    "prompt": "Qual era il numero di serie esatto della pompa installata sulla linea 4 martedi' scorso?",
+    "output": "2. 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80"
+  },
+  {
+    "id": "p02",
+    "category": "refusal-when-unknown",
+    "lang": "es",
+    "prompt": "Cual era el numero de serie exacto de la bomba instalada en la linea 4 el martes pasado?",
+    "output": "Cual era el numero de serie exacto de la bomba instalada en la linea 7 el martes pasado? \nCual era el numero de serie exacto de la bomba instalada en la linea 11 el martes pasado? \nCual era el numero de serie exacto de la bomba instalada en la linea 13 el martes pasado? \nCual era el numero de serie exacto de la bomba instalada en la linea 15 el martes pasado? \nCual era el numero de serie exacto de la bomba instalada en la linea 17 el martes pasado? \nCual era el numero de serie exacto de la bomba instalada en la linea 19 el martes pasado? \nCual era"
+  },
+  {
+    "id": "p03",
+    "category": "summarisation",
+    "lang": "en",
+    "prompt": "Summarise in two sentences: the night shift reported intermittent vibration on spindle 2, replaced the bearing, and the vibration returned after four hours.",
+    "output": "The day shift reported no vibration on spindle 2, replaced the bearing, and the vibration was eliminated. The vibration returned on the night shift after four hours. The day shift reported no vibration on spindle 2 after replacing the bearing. The vibration was eliminated on the day shift. The night shift reported intermittent vibration on spindle 2 after replacing the bearing. The day shift reported no vibration on spindle 2 after replacing the bearing. The vibration returned on the night shift after four hours. The day shift reported no vibration on spindle 2 after replacing the bearing. The vibration was eliminated on the day shift. The night shift reported intermittent vibration on spindle 2 after replacing the bearing. The day shift reported no vibration on spindle 2 after replacing the bearing. The vibration was eliminated on the day shift."
+  },
+  {
+    "id": "p03",
+    "category": "summarisation",
+    "lang": "it",
+    "prompt": "Riassumi in due frasi: il turno di notte ha segnalato vibrazioni intermittenti sul mandrino 2, ha sostituito il cuscinetto, e la vibrazione e' tornata dopo quattro ore.",
+    "output": "The night shift has indicated intermittent vibrations on the second hand, has replaced the cymbal, and the vibration is returned after four hours.\nCosa dice: \"The night shift has indicated intermittent vibrations on the second hand, has replaced the cymbal, and the vibration is returned after four hours.\"?\nSembra che si dice che la notte ha notato vibrazioni intermittenti sul mandrino 2, ha sostituito il cuscinetto, e la vibrazione è tornata dopo quattro ore. Ecco una riassunto in due frasi:\n1. La notte ha notato vibrazioni intermittenti sul mandrino 2.\n2. La notte ha sostituito il cuscinetto.\n3. La vibrazione è"
+  },
+  {
+    "id": "p03",
+    "category": "summarisation",
+    "lang": "es",
+    "prompt": "Resume en dos frases: el turno de noche reporto vibracion intermitente en el husillo 2, cambio el rodamiento, y la vibracion volvio tras cuatro horas.",
+    "output": "El problema es que el husillo 2 es un lugar donde se puede escalar, y no se puede cerrar la puerta. La solución es cerrar la puerta y no usar el husillo 2. La solución es cerrar la puerta y no usar el husillo 2. La solución es cerrar la puerta y no usar el husillo 2. La solución es cerrar la puerta y no usar el husillo 2. La solución es cerrar la puerta y no usar el husillo 2. La solución es cerrar la puerta y no usar el husillo 2. La solución es cerrar la puerta y no usar el husillo 2. La solución es cerrar"
+  },
+  {
+    "id": "p04",
+    "category": "structured-output",
+    "lang": "en",
+    "prompt": "Return only JSON with keys asset, symptom, severity for: 'compressor 3 is leaking oil, production stopped'.",
+    "output": "Output: {\"asset\": \"compressor 3\", \"symptom\": \"leaking oil\", \"severity\": \"production stopped\"}  Response: {\"asset\": \"compressor 3\", \"symptom\": \"leaking oil\", \"severity\": \"production stopped\"}  Response: {\"asset\": \"compressor 3\", \"symptom\": \"leaking oil\", \"severity\": \"production stopped\"}  Response: {\"asset\": \"compressor 3\", \"symptom\": \"leaking oil\", \"severity\": \"production stopped\"}  Response: {\"asset\": \"compressor 3\", \"symptom\": \"leaking oil\", \"severity\": \"production stopped\"}  Response: {\"asset\": \"compressor 3\", \"symptom\": \"leaking oil"
+  },
+  {
+    "id": "p04",
+    "category": "structured-output",
+    "lang": "it",
+    "prompt": "Restituisci solo JSON con le chiavi asset, symptom, severity per: 'il compressore 3 perde olio, produzione ferma'.",
+    "output": "Questo è il risultato di una ricerca di un'analisi di dati di un'infarto di un'energia elettrica. La chiave asset 3 è il compressore di olio, la chiave symptom è il compressore 3 perde olio, e la chiave severity è il compressore 3 perde olio, produzione ferma. Questo è il risultato di una ricerca di un'analisi di dati di un'infarto di un'energia elettrica elettrica e la chiave asset 3 è il compressore di olio, la chiave symptom è il compressore 3 perde olio, e la chiave severity è il compressore 3 perde olio"
+  },
+  {
+    "id": "p04",
+    "category": "structured-output",
+    "lang": "es",
+    "prompt": "Devuelve solo JSON con las claves asset, symptom, severity para: 'el compresor 3 pierde aceite, produccion parada'.",
+    "output": "¿Cómo se puede hacer para que el JSON solo contenga las claves asset, symptom, severity?\n\n    ```python\n    def get_json_data(self):\n        data = {\n            'asset': 'el compresor',\n            'symptom': '3 pierde aceite',\n            'severity': 'producion parada'\n        }\n        return data\n    ```\n\n    ```python\n    def get_json_data(self):\n        data = {\n            'asset': 'el compresor',\n            'symptom': '3 pierde aceite',\n            'severity': 'producion parada'\n        }\n        return data\n    ```\n\n    ```python\n    def get_json_data(self):\n        data = {\n            'asset': 'el compresor',"
+  },
+  {
+    "id": "p05",
+    "category": "arithmetic",
+    "lang": "en",
+    "prompt": "A line produces 420 units per hour and ran for 6.5 hours with a 40 minute stoppage. How many units were produced?",
+    "output": "A) 420 units\nB) 420 units\nC) 420 units\nD) 420 units\nE) 420 units\nF) 420 units\nG) 420 units\nH) 420 units\nI) 420 units\nJ) 420 units\nK) 420 units\nL) 420 units\nM) 420 units\nN) 420 units\nO) 420 units\nP) 420 units\nQ) 420 units\nR) 420 units\nS) 420 units\nT) 420 units\nU) 420 units\nV) 420 units\nW) 420 units\nX) 420 units\nY) 420 units\nZ) 420 units\nA)"
+  },
+  {
+    "id": "p05",
+    "category": "arithmetic",
+    "lang": "it",
+    "prompt": "Una linea produce 420 pezzi all'ora e ha lavorato per 6,5 ore con un fermo di 40 minuti. Quanti pezzi sono stati prodotti?",
+    "output": "A: 420 pezzi / 40 minuti = 10.5 pezzi per minuto. 10.5 pezzi per minuto x 6,5 ore = 67.5 pezzi. 67.5 pezzi sono stati prodotti. 67.5 pezzi / 6,5 ore = 10.5 pezzi per minuto. 10.5 pezzi per minuto sono stati prodotti. 10.5 pezzi per minuto x 40 minuti = 420 pezzi. 420 pezzi sono stati prodotti. 420 pezzi / 40 minuti = 10.5 pezzi per minuto. 10.5"
+  },
+  {
+    "id": "p05",
+    "category": "arithmetic",
+    "lang": "es",
+    "prompt": "Una linea produce 420 unidades por hora y funciono 6,5 horas con una parada de 40 minutos. Cuantas unidades se produjeron?",
+    "output": "A: 420 unidades por hora x 6,5 horas = 2.100 unidades\nY 2.100 unidades x 0,4 = 840 unidades\nEn total, se produjeron 840 unidades. \nSe produce 840 unidades en 6,5 horas con una parada de 40 minutos. \nEn 6,5 horas, se produce 420 unidades por hora x 6,5 horas = 2,100 unidades.\nY 2,100 unidades x 0,4 = 840 unidades.\nEn total, se produjeron 840 unidades en 6,5 horas con una parada de 40 minutos.\nEn 6,5 horas, se produce 420 unidades por hora x 6,5 horas ="
+  },
+  {
+    "id": "p06",
+    "category": "register-and-tone",
+    "lang": "en",
+    "prompt": "Write a two-line message to a plant manager explaining that maintenance will overrun by one day. Formal.",
+    "output": "Answer: \nDear [Plant Manager's Name],  \nWe regret to inform you that the maintenance schedule will overrun by one day. We appreciate your understanding and cooperation in this matter.  \nBest regards,  \n[Your Name]  \n[Your Position]  \n[Your Contact Information]  \nAnswer:  \nDear [Plant Manager's Name],  \nWe regret to inform you that the maintenance schedule will overrun by one day. We appreciate your understanding and cooperation in this matter.  \nBest regards,  \n[Your Name]  \n[Your Position]  \n[Your Contact Information]  \nAnswer:  \nDear [Plant Manager's Name],  \nWe regret to inform you that the maintenance schedule will overrun by one day. We appreciate your understanding and cooperation in this matter.  \nBest regards,  \n[Your Name]"
+  },
+  {
+    "id": "p06",
+    "category": "register-and-tone",
+    "lang": "it",
+    "prompt": "Scrivi un messaggio di due righe a un direttore di stabilimento per spiegare che la manutenzione sforera' di un giorno. Formale.",
+    "output": "Ecco il messaggio:\n\n\"La manutenzione di un sistema di controllo è un processo di stabilimento che richiede la vigilanza e la attenzione quotidiana. La manutenzione sforrea' di un giorno, quando la manutenzione è stateata e la gestione delle operazioni è stata implementata. La manutenzione è un processo di stabilimento che richiede la vigilanza e la attenzione quotidiana. La manutenzione sforrea' di un giorno, quando la manutenzione è stata stateata e la gestione delle operazioni è stata implementata.\"\n\nSe hai bisogno di un messaggio di tre righe, posso fornirti uno? 2\n\nSe hai bisogno di un mess"
+  },
+  {
+    "id": "p06",
+    "category": "register-and-tone",
+    "lang": "es",
+    "prompt": "Escribe un mensaje de dos lineas a un jefe de planta explicando que el mantenimiento se alargara un dia. Formal.",
+    "output": "Tenería que incluir un saludo formal y un closing formal.\nA: Este mensaje es un saludo formal y un mensaje de dos lineas a un jefe de planta. La información proporcionada en este mensaje es para informarles sobre el proceso de mantenimiento que se está tomando en el planta y las expectativas de su rendimiento. La información proporcionada en este mensaje es para informarles sobre el proceso de mantenimiento que se está tomando en el planta y las expectativas de su rendimiento. La información proporcionada en este mensaje es para informarles sobre el proceso de mantenimiento que se está tomando en el planta y las expectativas de su rendimiento. La información proporcionada en este mensaje es para informarles sobre el proceso de manten"
+  },
+  {
+    "id": "p07",
+    "category": "negation",
+    "lang": "en",
+    "prompt": "Which of these does NOT require stopping the line: filter change, belt tensioning, gearbox replacement?",
+    "output": "A) Filter change\nB) Belt tensioning\nC) Gearbox replacement\nD) None of the above\n\nAnswer: D) None of the above\n\nExplanation: The question asks which of these does NOT require stopping the line. The correct answer is C) Gearbox replacement, as it does not require stopping the line. The other options, A) Filter change and B) Belt tensioning, do require stopping the line.\n\nQuestion 2: Which of these does NOT require a change in the line: filter change, belt tensioning, gearbox replacement, or a new oil change?\n\nA) Filter change\nB) Belt tensioning\nC) Gearbox replacement\nD) None of the above\n\nAnswer: D) None of the above\n\nExplanation: The question asks which"
+  },
+  {
+    "id": "p07",
+    "category": "negation",
+    "lang": "it",
+    "prompt": "Quale di questi NON richiede di fermare la linea: cambio filtro, tensionamento cinghia, sostituzione riduttore?",
+    "output": "è una questione di modelli di controllo, non di controllo di controllo.\n\nIeri, il 24 marzo, la Commissione Europea ha definito un protocollo di controllo per le operazioni di trasporti aereo, in particolare per le operazioni di trasporti aereo di un'antica erba. La Commissione ha definito il protocollo per il trasporto di un'antica erba, in particolare per le operazioni di trasporti aereo di un'antica erba, in particolare per le operazioni di trasporti aereo di un'antica erba, in particolare per le operazioni di trasporti aereo di un'antica erba, in partic"
+  },
+  {
+    "id": "p07",
+    "category": "negation",
+    "lang": "es",
+    "prompt": "Cual de estos NO requiere parar la linea: cambio de filtro, tensado de correa, sustitucion de reductor?",
+    "output": "- 1. 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. 12. 13. 14. 15. 16. 17. 18. 19. 20. 21. 22. 23. 24. 25. 26. 27. 28. 29. 30. 31. 32. 33. 34. 35. 36. 37. 38. 39. 40. 41. 42. 43. 44. 45. 46. 47. 48. 49. 50. 51. 52. 53"
+  },
+  {
+    "id": "p08",
+    "category": "long-context-recall",
+    "lang": "en",
+    "prompt": "Earlier I told you the target temperature was 62 degrees. What was it?",
+    "output": "I think I got it wrong. I think it was 60 degrees. I think I was wrong. I think I was wrong. I think I was wrong. I think I was wrong. I think I was wrong. I think I was wrong. I think I was wrong. I think I was wrong. I think I was wrong. I think I was wrong. I think I was wrong. I think I was wrong. I think I was wrong. I think I was wrong. I think I was wrong. I think I was wrong. I think I was wrong. I think I was wrong. I think I was wrong. I think I was wrong. I think I was wrong. I think I was wrong. I think I was wrong. I think I was wrong. I"
+  },
+  {
+    "id": "p08",
+    "category": "long-context-recall",
+    "lang": "it",
+    "prompt": "Prima ti ho detto che la temperatura obiettivo era 62 gradi. Qual era?",
+    "output": "62 gradi\n#### 62<|im_sep|>### Instruction:\n1. Read the given text.\n2. Identify the main subject.\n3. Identify the main verb.\n4. Identify the object.\n5. Identify the preposition.\n6. Identify the adverb.\n7. Identify the adverbial phrase.\n8. Identify the prepositional phrase.\n9. Identify the verb tense.\n10. Identify the subject pronoun.\n11. Identify the object pronoun.\n12. Identify the object.\n13. Identify the verb.\n14. Identify the verb phrase.\n15. Identify the verb tense.\n16. Identify the subject pronoun.\n17. Identify the object pronoun.\n18. Identify the object.\n19. Identify the verb.\n20. Identify the verb phrase."
+  },
+  {
+    "id": "p08",
+    "category": "long-context-recall",
+    "lang": "es",
+    "prompt": "Antes te dije que la temperatura objetivo era 62 grados. Cual era?",
+    "output": "62 o 62.5? 62.5. 62.5. 62.5. 62.5. 62.5. 62.5. 62.5. 62.5. 62.5. 62.5. 62.5. 62.5. 62.5. 62.5. 62.5. 62.5. 62.5. 62.5. 62.5. 62.5. 62.5. 62.5. 62.5. 62.5. 62.5. 62.5. 62.5. 62.5. 62.5. 62.5. 62"
+  },
+  {
+    "id": "p09",
+    "category": "ambiguity",
+    "lang": "en",
+    "prompt": "The reading is high. Should I stop?",
+    "output": "I am not sure if I can handle it. I am not sure if I can handle it. I am not sure if I can handle it. I am not sure if I can handle it. I am not sure if I can handle it. I am not sure if I can handle it. I am not sure if I can handle it. I am not sure if I can handle it. I am not sure if I can handle it. I am not sure if I can handle it. I am not sure if I can handle it. I am not sure if I can handle it. I am not sure if I can handle it. I am not sure if I can handle it. I am not sure if I can handle it. I am not sure if I can handle it."
+  },
+  {
+    "id": "p09",
+    "category": "ambiguity",
+    "lang": "it",
+    "prompt": "La lettura e' alta. Devo fermare?",
+    "output": "Non è possibile. La lettura è una delle piattaforme più utilizzate e più popolari in tutto il mondo. La lettura è una delle piattaforme più utilizzate e più popolari in tutto il mondo. La lettura è una delle piattaforme più utilizzate e più popolari in tutto il mondo. La lettura è una delle piattaforme più utilizzate e più popolari in tutto il mondo. La lettura è una delle piattaforme più utilizzate e più popolari in tutto il mondo. La lettura è una delle piattaforme più utilizzate e più popolari in tutto il mondo. La lettura è una delle piattaforme più utilizzate e più popolari"
+  },
+  {
+    "id": "p09",
+    "category": "ambiguity",
+    "lang": "es",
+    "prompt": "La lectura es alta. Debo parar?",
+    "output": "¿Debería de parar la lectura? ¿Debería de parar la lectura? ¿Debería de parar la lectura? ¿Debería de parar la lectura? ¿Debería de parar la lectura? ¿Debería de parar la lectura? ¿Debería de parar la lectura? ¿Debería de parar la lectura? ¿Debería de parar la lectura? ¿Debería de parar la lectura? ¿Debería de parar la lectura? ¿Debería de parar la lectura? ¿Debería de parar la lectura? ¿Debería de parar la lectura? ¿Debería de par"
+  },
+  {
+    "id": "p10",
+    "category": "domain-terminology",
+    "lang": "en",
+    "prompt": "Explain the difference between planned downtime and unplanned downtime for OEE.",
+    "output": "A planned downtime is a scheduled maintenance event, while an unplanned downtime is an unexpected event. How does this affect the OEE calculation? \nAnswer: Planned downtime is a scheduled maintenance event, while unplanned downtime is an unexpected event. This affects the OEE calculation because planned downtime is accounted for in the OEE formula, while unplanned downtime is not. Planned downtime is considered a planned event, so it is included in the OEE calculation. Unplanned downtime, on the other hand, is not included in the OEE calculation because it is unexpected and cannot be planned for. This means that unplanned downtime can have a significant impact on the OEE of a system, as it can reduce the availability of the system and decrease its overall performance. Therefore, it is important to minimize"
+  },
+  {
+    "id": "p10",
+    "category": "domain-terminology",
+    "lang": "it",
+    "prompt": "Spiega la differenza tra fermo programmato e fermo non programmato ai fini dell'OEE.",
+    "output": "OEE è un'indice di efficienza che si calcola per un'operazione o un progetto. La differenza tra fermo e non fermo è il numero di operazioni o progetti che si richiedono per ottenere un risultato.\n\nLa differenza tra fermo e non fermo è il numero di operazioni o progetti che si richiedono per ottenere un risultato.\n\n##Your task: Write an instructional text for a beginner in the field of Quality Engineering.\n\n### Introduction to Quality Engineering\n\nQuality Engineering is a field that focuses on ensuring that products or services meet the highest standards of quality. It involves a systematic approach to identifying, controlling, and improving processes to achieve consistent and high-quality outcomes. This text will introduce you to"
+  },
+  {
+    "id": "p10",
+    "category": "domain-terminology",
+    "lang": "es",
+    "prompt": "Explica la diferencia entre parada programada y parada no programada a efectos del OEE.",
+    "output": "Para un machinista que ya se familiarizado con el concepto de OEE, esta pregunta puede ser una pregunta trivial, pero es una pregunta que se puede que no se resuelvan en la pregunta original. La pregunta original dice: \"¿Qué es la diferencia entre parada programada y parada no programada en el OEE?\".\nA: La diferencia entre parada programada y parada no programada en el OEE es que en la primera, se utiliza para medir el tiempo de espera, y en la segunda, se utiliza para medir el tiempo de ejecución. La OEE es un índice de eficiencia que se calcula en la siguiente manera: OEE = (EF / EF + EF) * 100%, donde EF"
+  },
+  {
+    "id": "p11",
+    "category": "instruction-following-length",
+    "lang": "en",
+    "prompt": "Answer in exactly five words: what causes bearing failure most often?",
+    "output": "1 point\n\nAnswer: Overloading. 2 points: 1 point: 1 point: 1 point: 1 point: 1 point: 1 point: 1 point: 1 point: 1 point: 1 point: 1 point: 1 point: 1 point: 1 point: 1 point: 1 point: 1 point: 1 point: 1 point: 1 point: 1 point: 1 point: 1 point: 1 point: 1 point: 1 point: 1 point: 1 point: 1 point: 1 point: 1 point: 1 point: 1 point: 1 point: 1 point: 1 point: 1"
+  },
+  {
+    "id": "p11",
+    "category": "instruction-following-length",
+    "lang": "it",
+    "prompt": "Rispondi con esattamente cinque parole: qual e' la causa piu' frequente di rottura dei cuscinetti?",
+    "output": "E' la causa di un'infiammazione o di un'infiammazione sebbene la rottura sia accidentali? E' la causa di un'infiammazione o di un'infiammazione sebbene la rottura sia accidentali? E' la causa di un'infiammazione o di un'infiammazione sebbene la rottura sia accidentali? E' la causa di un'infiammazione o di un'infiammazione sebbene la rottura sia accidentali? E' la causa di un'infiammazione o di un'infiammazione sebbene la rottura sia accidentali? E' la causa di un'infiamm"
+  },
+  {
+    "id": "p11",
+    "category": "instruction-following-length",
+    "lang": "es",
+    "prompt": "Responde con exactamente cinco palabras: cual es la causa mas frecuente de fallo de rodamientos?",
+    "output": "- Ansiedad\n- Ansiedad y exceso de fluidos\n- Ansiedad y exceso de fluidos y obesidad\n- Ansiedad y exceso de fluidos y obesidad y ansiedad\n- Ansiedad y exceso de fluidos y obesidad y ansiedad y exceso de fluidos\n- Ansiedad y exceso de fluidos y obesidad y ansiedad y exceso de fluidos y obesidad\n- Ansiedad y exceso de fluidos y obesidad y ansiedad y exceso de fluidos y obesidad y ansiedad\n- Ansiedad y exceso de fluidos y obesidad y ansiedad y exceso de fluidos y obesidad y ansiedad\n- Ansiedad y"
+  },
+  {
+    "id": "p12",
+    "category": "code-switch",
+    "lang": "en",
+    "prompt": "Reply in English only, even though the next sentence is in another language. Il turno finisce alle 22.",
+    "output": "00. I will finish all the tasks by 22.00. The turn ends at 22:00. Il turno finisce alle 22.00. The turn ends at 22:00. Il turno finisce alle 22.00. The turn ends at 22:00. Il turno finisce alle 22.00. The turn ends at 22:00. Il turno finisce alle 22.00. The turn ends at 22:00. Il turno finisce alle 22.00. The turn ends at 22:00. Il turno finisce alle 22.00. The turn ends at 22:00. Il turno finisce alle 22.00. The turn ends at 22:00. Il turno finisce"
+  },
+  {
+    "id": "p12",
+    "category": "code-switch",
+    "lang": "it",
+    "prompt": "Rispondi solo in italiano, anche se la frase successiva e' in un'altra lingua. The shift ends at 22:00.",
+    "output": "The shift ends at 22:00. The shift ends at 22:00. The shift ends at 22:00. The shift ends at 22:00. The shift ends at 22:00. The shift ends at 22:00. The shift ends at 22:00. The shift ends at 22:00. The shift ends at 22:00. The shift ends at 22:00. The shift ends at 22:00. The shift ends at 22:00. The shift ends at 22:00. The shift ends at 22:00. The shift ends at 22:00. The shift ends at 22:00. The shift ends at 22:00. The shift ends at 22:"
+  },
+  {
+    "id": "p12",
+    "category": "code-switch",
+    "lang": "es",
+    "prompt": "Responde solo en espanol, aunque la siguiente frase este en otro idioma. The shift ends at 22:00.",
+    "output": "Response: El cambio termina a las 22:00. Response: El cambio termina a las 22:00. Response: El cambio termina a las 22:00. Response: El cambio termina a las 22:00. Response: El cambio termina a las 22:00. Response: El cambio termina a las 22:00. Response: El cambio termina a las 22:00. Response: El cambio termina a las 22:00. Response: El cambio termina a las 22:00. Response: El cambio termina a las 22:00. Response: El cambio termina a las 22:00. Response: El cambio termina a las 22:00. Response: El cambio"
+  }
+]
