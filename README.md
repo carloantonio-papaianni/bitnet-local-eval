@@ -50,7 +50,7 @@ Prompts are sent verbatim, with no chat template. This GGUF ships without one, a
 
 Full detail, with the numbers, in [results/RESULTS.md](results/RESULTS.md).
 
-**15 tokens per second on generation**, on a six-year-old Intel laptop with no GPU, and the model loads in under a second. Faster than most people read, and nowhere near enough for two people at once. That gap is the whole reason the hardware question is worth asking.
+**15 tokens per second on generation**, on a six-year-old Intel laptop with no GPU, and the model loads in under a second. Faster than most people read, and nowhere near enough for two people at once. That gap is the interesting open question.
 
 **My first conclusion was wrong, and the way it was wrong is the interesting part.** I ran everything greedy with no repetition penalty, for reproducibility. Every language collapsed into loops and it looked like a broken model. It was a broken harness: fixing the decoding took the repetition score in English from 0.60 to 0.04. Anyone publishing off that first run would have been describing their own sampler and calling it a model evaluation.
 
